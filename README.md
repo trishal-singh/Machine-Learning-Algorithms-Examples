@@ -4,3 +4,4 @@ List of Algorithms:
 1. Linear Regression.
 2. Logistic Regresson.
 3. K Nearest Neighbors.
+4. K Means.
