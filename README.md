@@ -3,3 +3,4 @@ This repository contains short code snippets for various machine learning algori
 List of Algorithms:
 1. Linear Regression.
 2. Logistic Regresson.
+3. K Nearest Neighbors.
