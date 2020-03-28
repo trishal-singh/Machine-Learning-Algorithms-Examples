@@ -5,3 +5,4 @@ List of Algorithms:
 2. Logistic Regresson.
 3. K Nearest Neighbors.
 4. K Means.
+5. Naive Bayes.
